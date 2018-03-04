@@ -1,10 +1,10 @@
 ---
-title: Overview Agile Self Managment
+title: 'Overview Agile Self Managment'
 taxonomy:
     category: docs
 ---
 
-
+Making Self realization easier for people living in fisrt world identities has taken 5 years and has resulted in many benifits including, assimilation new knowledge 50% faster and removing self esteem issues.
 Let's face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.
 
 **Markdown** is a better way to write **HTML**, without all the complexities and ugliness that usually accompanies it.
