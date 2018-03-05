@@ -6,13 +6,13 @@ taxonomy:
 visible: true
 ---
 
-Agile Self Management uses Desire Dynamics architecture to make Self realization easier and achievable for people willing and able to work with the truth, which they uncover and discover in personal and professional roles.
+Agile Self Management uses Desire Dynamics architecture to make Self realization easier and achievable for people Agile Self Management uses Desire Dynamics architecture to make Self realization easier and achievable for people willing and able to work with the truth, which they uncover and discover in personal and professional roles.
 **You can learn from your everyday personal and professional experiences 50% faster, when you remove self-esteem issues from Self reflection.**
 One essential difference is that this process is designed to build pathways from the heart mind into the world of our personal and professional roles, it does not seek to bring current identities to a point of resolution.
-Using Mindful1st positive participation practice as a context allows you to begin your practice in the real roles you inhabit everday and much more.
-What illustrates the newness of this approach is tha tit uses two distinct syntactic and semantic contexts for Self, as an abiding and knowable inner entity and personal pronouns like 'I' are interpreted as . differnces in Agile Self Management is that it clearly diffe
-for people living in fisrt world identities has taken 5 years and has resulted in many benifits including, assimilation new knowledge 50% faster and removing self esteem issues.
+Using Mindful1st positive participation practice as a context allows you to begin your practice in the real roles you inhabit everyday and much more.
+What illustrates the newness of this approach is that tit uses two distinct syntactic and semantic contexts for Self, as an abiding and knowable inner entity and personal pronouns like 'I' are interpreted as . 
 Let's face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.
+
 
 **Markdown** is a better way to write **HTML**, without all the complexities and ugliness that usually accompanies it.
 
