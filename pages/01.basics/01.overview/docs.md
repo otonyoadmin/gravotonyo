@@ -7,7 +7,7 @@ visible: true
 ---
 
 Agile Self Management uses Desire Dynamics architecture to make Self realization easier and achievable for people willing and able to work with the truth, which they uncover and discover in personal and professional roles.
-You can learn from your everyday personal and professional experiences 50% faster, when you remove self-esteem issues from Self reflection.
+**You can learn from your everyday personal and professional experiences 50% faster, when you remove self-esteem issues from Self reflection.**
 One essential difference is that this process is designed to build pathways from the heart mind into the world of our personal and professional roles, it does not seek to bring current identities to a point of resolution.
 Using Mindful1st positive participation practice as a context allows you to begin your practice in the real roles you inhabit everday and much more.
 What illustrates the newness of this approach is tha tit uses two distinct syntactic and semantic contexts for Self, as an abiding and knowable inner entity and personal pronouns like 'I' are interpreted as . differnces in Agile Self Management is that it clearly diffe
