@@ -1,5 +1,6 @@
 ---
 title: 'Overview Agile Self Managment 2'
+published: false
 taxonomy:
     category:
         - docs
