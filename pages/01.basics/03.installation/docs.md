@@ -1,10 +1,12 @@
 ---
-title: Installation
+title: 'Daily Positive Participation Practice'
 taxonomy:
-    category: docs
+    category:
+        - docs
+visible: true
 ---
 
-Lorem markdownum fama iusserat **sit trunca**, isto et quid dolens Aeetias.
+L[](https://drive.google.com/file/d/1E_cJ2CzK7SYa4hMxxMdXDkJvsI5kIBDM/view?usp=sharing)orem markdownum fama iusserat **sit trunca**, isto et quid dolens Aeetias.
 Indice [pater in](http://www.mozilla.org/) constitit *munus* voces bidentum
 officium te utrique animaeque multum dedit. Coimus premens? Flet hospes ad
 nequeunt uti; sacerdotis gestit. Dis comas meum texerat frustra, saniemque
